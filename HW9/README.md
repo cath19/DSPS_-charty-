@@ -8,4 +8,4 @@ Higgs Boson:
 
 I used the free extension on this assignment. 
 I worked with Theodore Fessaras, Desi Pilla, and Sam Matylewicz. Theodore and I worked on opening the file together. 
-I did some of the data wrangling by myself. Desi and Sam did the majority of the rest of the assignment.
+I did some of the data wrangling by myself. Desi and Sam did the majority of the rest of the assignment since I was very confused.
